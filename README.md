@@ -18,3 +18,5 @@ The built-in Astro Calendar auto-populates with sunrise and sunset times, moon p
 - Astro Calendar — sunrise, sunset, moon phases, and more
 - Automatic data saving with export and import backup
 - Universal — runs natively on Apple Silicon and Intel Macs
+
+## Coded with vanilla HTML - CSS - JavaScript
