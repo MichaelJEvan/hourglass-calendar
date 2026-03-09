@@ -2,6 +2,7 @@
 
 
 <img width="1212" height="1112" alt="screenshot" src="https://github.com/user-attachments/assets/4d927c70-4d1c-428b-b0c4-b619cf143947" />
+<img width="1212" height="1112" alt="Calendar2" src="https://github.com/user-attachments/assets/7ca3bb5d-eeb8-4ae7-875d-598ca2c14d3f" />
 
 Description:
 Hourglass Calendar is a personal countdown calendar that keeps your most important events front and center — with live ticking countdowns, not just dates.
